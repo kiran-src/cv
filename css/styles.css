@@ -1,0 +1,22 @@
+body {
+  background-color: khaki;
+}
+
+hr {
+  border-style: none;
+  border-top: 15px dotted;
+  border-color: #6D9886;
+  width: 10%;
+}
+
+img {
+  height: 180px;
+}
+
+h1 {
+  color: #632626;
+}
+
+h3 {
+  color: #9C0F48;
+}
